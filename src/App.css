@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.footer{
+  background-color: #282c34;
+  position: absolute;
+  bottom: 0px;
+  width:100%;
+  
+}
+.copy{
+  color: antiquewhite;
+  background-color: #282c34;
+  text-align: center;
+  position: relative;
+}
